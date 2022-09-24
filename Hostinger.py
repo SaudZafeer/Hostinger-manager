@@ -43,7 +43,7 @@ def get_profile_path(profile):
 
 
 #hostinger url
-url2="https://mail.hostinger.com/?_task=mail&_mbox=INBOX.Shopify%20order%20export"
+url2=""
 download_path_root = os.path.join(os.environ['USERPROFILE'],r'OneDrive\Reporting\E1')
 
 #Folder name

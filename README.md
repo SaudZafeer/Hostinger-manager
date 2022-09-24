@@ -1,6 +1,6 @@
 
 # About Hostinger-manager💻
-Are you looking for a bot that can download your newest report? Hostinger-manager is the best solution for you.
+Are you looking for a bot that can download your newest report of your shopify account? Hostinger-manager is the best solution for you.
 
 
 

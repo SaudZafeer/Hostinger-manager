@@ -1,12 +1,12 @@
 
 # About Hostinger-manager💻
-Are you looking for a bot that can download your newest report of your shopify account? Hostinger-manager is the best solution for you.
+Are you looking for a bot that can download your newest report of charges or order export from hostinger? Then Hostinger-manager is the best solution for you.
 
 
 
-## What Azn_Inventory_health Do?🤔
+## What Hostinger-manager Do?🤔
 
-Lets say you have to download shopify orders reports everyday and its quite annoying for the report to be generated. So we come up with an idea that why shouldn't we create a program that can manage this task dynamically. So After putting a lots of efforts into this project we successfully created a bot that can Manage/download CSV file of our Shopify account.
+As you know that Shopify sends your charges and order_export csv via Email which you have provided, So let the Hostinger Manager handle this. Hostinger Manager not only downloads your file but can stores it into your desired folder as well
 
 ## How it works?
 Hostinger-manager is the best solution for your report management problems. It is made for those who have to download the files daily. With the idea to turn all the manual work into one click.
@@ -22,7 +22,8 @@ If anybody wanted to use this project for their shopify order export report mana
 
 ## Installation
 
-1-Open visual studio code or any code editor select a folder where you want to clone the repo
+1-Open visual studio code or any code editor select a folder where you want to clone the repo.
+
 2-Clone the Repo
 
 ```bash
